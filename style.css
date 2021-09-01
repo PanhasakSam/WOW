@@ -19,8 +19,8 @@ overflow: hidden;
 }
 
 .img-container img {
-  width: 90%;
-  height: 90%;
+  width: 95%;
+  height: 95%;
   transition: all 0.3s ease-in-out;
   cursor: pointer;
   justify-content: center;
@@ -39,8 +39,8 @@ overflow: hidden;
 
 @media screen and (max-width: 415px) {
   .full-img.full-img.open {
-    width: 105vh;
-    height: 105vh;
+    width: 100vh;
+    height: 100vh;
   }
 
 #slider,
