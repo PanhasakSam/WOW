@@ -31,12 +31,6 @@ overflow: hidden;
   right: 1cm;
 }
 
-
-
-.img-container img:hover {
-  transform: scale(1.2);
-}
-
 @media screen and (max-width: 415px) {
   .full-img.full-img.open {
     width: 100vh;
